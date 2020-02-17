@@ -5,7 +5,7 @@ This is a unique repository in many ways. It’s a deep learning model open sour
 
 DeepCamera works on Android devices.
 You can integrate the code with surveillance cameras as well. There’s a LOT you can do with DeepCamera’s code, including:
-
+Fuck you mongolians.
 - Face recognition
 - Face Detection
 - Control from mobile application
